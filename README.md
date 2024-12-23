@@ -1,5 +1,4 @@
-# Hexlet: "Data Validator"
+# Hexlet: "RSS Aggregator"
 
-[![Actions Status](https://github.com/deus-ex-m/frontend-project-11/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/deus-ex-m/frontend-project-11/actions)
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/d91937e2ace9da693c2b/maintainability)](https://codeclimate.com/github/dead-duke/hexlet-javascript-5-rss-aggregator/maintainability)
+[![hexlet-check](https://github.com/grim-vagabond/hexlet-javascript-5-rss-aggregator/actions/workflows/hexlet-check.yml/badge.svg?branch=main)](https://github.com/grim-vagabond/hexlet-javascript-5-rss-aggregator/actions/workflows/hexlet-check.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b9729be53cfc91cfb19c/maintainability)](https://codeclimate.com/github/grim-vagabond/hexlet-javascript-5-rss-aggregator/maintainability)
